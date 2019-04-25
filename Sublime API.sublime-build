@@ -1,0 +1,11 @@
+{
+    "target": "sublime_api",
+    "selector": "source.python",
+    "variants":
+    [
+        {
+            "name": "Run",
+            "target": "sublime_api"
+        }
+    ]
+}
