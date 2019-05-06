@@ -1,6 +1,6 @@
 {
     "target": "sublime_api",
-    "selector": "source.python",
+    "selector": "source.subl",
     "variants":
     [
         {
